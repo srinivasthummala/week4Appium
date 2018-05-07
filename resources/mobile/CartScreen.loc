@@ -1,0 +1,1 @@
+txt.productname.cartpage = {\"locator\":\"xpath=//android.view.View[contains(@content-desc, \\\"%s\\\")]\",\"desc\":\"product name in cart page\"}

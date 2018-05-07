@@ -1,0 +1,3 @@
+txt.product.name.product.details.page = {\"locator\":\"xpath=//android.widget.FrameLayout/android.widget.TextView\",\"desc\":\"product name from product details page\"}
+txt.product.price.product.details.page = {\"locator\":\"xpath=//*[@text='%s']\",\"desc\":\"product price from product details page\"}
+btn.add.to.cart.product.details.page = {\"locator\":\"id=product_addtocart_1\",\"desc\":\"add to cart button\"}

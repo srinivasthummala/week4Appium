@@ -1,0 +1,12 @@
+
+
+#SCENARIO: Test Scenario
+#META-DATA: {"description":"hi","enable":"false"}
+	
+	Given user printing 'hi test started'
+	Then user gathering map data
+	Then user gathering bean data
+	And user display map data
+	And user display bean data
+	
+END

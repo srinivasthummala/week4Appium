@@ -1,0 +1,17 @@
+
+
+
+
+SCENARIO: SampleTest
+META-DATA: {"description":"Sample Test Scenario","groups":["SMOKE"]}
+	
+	Given user open Flipkart appliaction	
+	Then user allow any authentication/advertisement if it comes
+	And user skips login screen by clicking cancel button
+	And user search for 'ipad' and select IPad from search results
+	And user select Lowest Price Item From List
+	And store into 'productName'
+	Then user verify product detail page with '${productName}'
+	And user adds item to cart and navigate to cart page
+	Then user verify product has been added in cart with '${productName}' 
+END

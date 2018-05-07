@@ -1,0 +1,9 @@
+flipkart.allow.contacts.id = {\"locator\":\"id=com.android.packageinstaller:id/permission_allow_button\",\"desc\":\"Allowing flipkart to accessing contacts\"}
+flipkart.search.link = {\"locator\":\"id=com.flipkart.android:id/search_widget\",\"desc\":\"search link\"}
+flipkart.close.login.button = {\"locator\":\"id=com.flipkart.android:id/btn_skip\",\"desc\":\"cliks on cancel login\"}
+flipkart.side.menu.button = {\"locator\":\"accessibility id=Open Drawer\",\"desc\":\"clicks on menu widget button\"}
+flipkart.select.menu.sidepanel = {\"locator\":\"xpath=//*[@text='%s']\",\"desc\":\"selects given category from side menu\"}
+flipkart.search.products.input = {\"locator\":\"id=com.flipkart.android:id/search_widget_textbox\",\"desc\":\"search for products\"}
+flipkart.search.send.input = {\"locator\":\"id=com.flipkart.android:id/search_autoCompleteTextView\",\"desc\":\"sends search data to search box\"}
+flipkart.search.item.select.link = {\"locator\":\"xpath=//*[@text='ipad in Tablets']\",\"desc\":\"selects search item from list\"}
+btn.cart.homepage = {\"locator\":\"id=cart_bg_icon\",\"desc\":\"cart page button\"}

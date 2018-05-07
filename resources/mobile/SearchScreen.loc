@@ -1,0 +1,6 @@
+searchpage.access.device.location.allow.button = {\"locator\":\"id=com.android.packageinstaller:id/permission_allow_button\",\"desc\":\"allow flipkart to access device location\"}
+searchpage.displayed.product.list = {\"locator\":\"xpath=//android.widget.LinearLayout[@content-desc=\\\"product_list\\\"]/android.widget.FrameLayout/android.widget.RelativeLayout/android.widget.LinearLayout\",\"desc\":\"list of products display\"}
+searchpage.product.list.product.name = {\"locator\":\"id=product_list_product_item_main_text\",\"desc\":\"get product name\"}
+searchpage.product.list.product.price = {\"locator\":\"id=product_list_product_item_price\",\"desc\":\"get product price\"}
+searchpage.sort.link = {\"locator\":\"id=com.flipkart.android:id/sort_by_layout\",\"desc\":\"sorting list order link\"}
+searchpage.sort.low.high.option = {\"locator\":\"xpath=//*[@text='Price -- Low to High']\",\"desc\":\"sort optin low to high\"}
